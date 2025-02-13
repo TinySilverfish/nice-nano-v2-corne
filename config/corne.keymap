@@ -24,7 +24,7 @@
         compatible = "zmk,combos";
 
         gui {
-            bindings = <&kp RGUI>;
+            bindings = <&kp LGUI>;
             key-positions = <37 38>;
         };
 
